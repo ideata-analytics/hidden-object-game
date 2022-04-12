@@ -1,0 +1,26 @@
+{
+	"Questions": [{
+		"ID": "1",
+		"Question": "How much waste was collected from the Saving Our Blue beach and dive cleanups in 2021?",
+		"Option1": "3.7 tonnes",
+		"Option2": "10.3 tonnes",
+		"Option3": "14.9 tonnes",
+		"RightAnswer": "3"
+	},
+	{
+	"ID": "2",
+		"Question": "Which of the following item contain plastic",
+		"Option1": "Cigarette butts",
+		"Option2": "Cotton Bag",
+		"Option3": "Bamboo Cotton Buds",
+		"RightAnswer": "1"
+		},
+	{
+	"ID": "3",
+		"Question": "What makes a successful MPA",
+		"Option1": "Proper Enforcement?",
+		"Option2": "Not engaging the public?",
+		"Option3": "Allow illegal fishing to occur?",
+		"RightAnswer": "1"
+		}]
+}
