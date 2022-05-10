@@ -1,10 +1,10 @@
 {
-	"name": "Trash Sorting",
-	"short_name": "Trash Sorting",
-	"description": "Trash sorting activity helps kids understand the first step of recycling. This game has beautiful graphics with more than 70 different items that need to be sorted into several bins.\nKids have to sort the waste according to plastic, glass, paper, organic, metal, and e-waste.\nThis game is a great way for kids to start off learning about recycling and environmental responsibility in a fun and engaging way. \n",
+	"name": "Trash Hunter",
+	"short_name": "Trash Hunter",
+	"description": "Trash Hunter",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "any",
 	"background_color": "#a8def0",
 	"icons": [
 		{

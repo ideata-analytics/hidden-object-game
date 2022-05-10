@@ -9,7 +9,7 @@
 	},
 	{
 	"ID": "2",
-		"Question": "Which of the following item contain plastic",
+		"Question": "Which of the following item contain plastic?",
 		"Option1": "Cigarette butts",
 		"Option2": "Cotton Bag",
 		"Option3": "Bamboo Cotton Buds",
@@ -17,10 +17,10 @@
 		},
 	{
 	"ID": "3",
-		"Question": "What makes a successful MPA",
-		"Option1": "Proper Enforcement?",
-		"Option2": "Not engaging the public?",
-		"Option3": "Allow illegal fishing to occur?",
+		"Question": "What makes a successful MPA?",
+		"Option1": "Proper Enforcement",
+		"Option2": "Not engaging the public",
+		"Option3": "Allow illegal fishing to occur",
 		"RightAnswer": "1"
 		}]
 }
