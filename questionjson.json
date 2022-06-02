@@ -9,8 +9,8 @@
 	},
 	{
 	"ID": "2",
-		"Question": "Which of the following item contain plastic?",
-		"Option1": "Cigarette butts",
+		"Question": "Which of the following items contain plastic?",
+		"Option1": "Cigarette Butts",
 		"Option2": "Cotton Bag",
 		"Option3": "Bamboo Cotton Buds",
 		"RightAnswer": "1"
